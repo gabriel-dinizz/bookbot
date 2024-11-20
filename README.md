@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my python first project!
+.txt report generator
